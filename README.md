@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Some of my Github Stats
-[![Hakan's github stats](https://github-readme-stats.vercel.app/api?username=hakky54&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakky54&show_icons=true&theme=dracula&hide=html,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Hakan's github stats](https://github-readme-stats.vercel.app/api?username=hakky54&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakky54&show_icons=true&theme=dracula&hide=html,javascript,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hakky54/Hakky54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
