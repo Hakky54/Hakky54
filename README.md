@@ -2,9 +2,10 @@
 
 **Get in touch:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hakan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/)](https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/) [![Github Badge](https://img.shields.io/badge/-Hakky54-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Hakky54/)](https://www.github.com/Hakky54/)
+[![Linkedin Badge](https://img.shields.io/badge/-Hakan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/)](https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/) [![Github Badge](https://img.shields.io/badge/-Hakky54-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Hakky54/)](https://www.github.com/Hakky54/) ![Profile views](https://gpvc.arturio.dev/Hakky54)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
 [![Hakan's github stats](https://github-readme-stats.vercel.app/api?username=hakky54&show_icons=true&theme=dracula&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakky54&show_icons=true&theme=dracula&hide=html,javascript,css&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Hakky54/Hakky54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
