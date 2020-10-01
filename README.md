@@ -6,7 +6,7 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 
-[![Hakan's github stats](https://github-readme-stats.vercel.app/api?username=hakky54&show_icons=true&theme=dracula&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakky54&show_icons=true&theme=dracula&hide=html,javascript,css&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Hakan's github stats](https://github-readme-stats.vercel.app/api?username=hakky54&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakky54&show_icons=true&hide=html,javascript,css&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Hakky54/Hakky54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
