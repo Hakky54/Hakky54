@@ -2,7 +2,7 @@
 
 **Get in touch:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/)](https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/) [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Hakky54/)](https://www.github.com/Hakky54/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/)](https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/) [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Hakky54/)](https://www.github.com/Hakky54/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Hakky54) 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
 
