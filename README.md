@@ -1,28 +1,46 @@
+<img src='https://user-images.githubusercontent.com/16032204/122688449-822f7e80-d21c-11eb-971a-8c0a257c34f6.gif' align='left'>
+
 ### Hello there 👋, I'm Hakan!
+
+- 👨‍💻 I'm Hakan Altındağ and working as a freelance software engineer
+- 🔭 I’m currently working on  **Backend Development**
+- 🌱 I’m mainly using **Java and ElasticSearch**
+- 💬 Ask me about anything, I am happy to help
+- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
+- :bulb: Occasionaly I do participate in **Hackathons**
+- 👨 Know more about me at [Dzone](https://dzone.com/users/3485132/hakky54.html) 
+- 🌐 Visit my [LinkedIn](https://keshavsingh4522.github.io/) for complete background and contact.
+- :boom: awesome octoprofile : [Hakan Altındağ](https://octoprofile.vercel.app/user?id=hakky54)
 
 **Get in touch:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/)](https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/) [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Hakky54/)](https://www.github.com/Hakky54/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Hakky54) 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github*
+<br />
+<br />
 
-[![Hakan's github stats](https://github-readme-stats.vercel.app/api?username=hakky54&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakky54&show_icons=true&hide=html,javascript,css&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Hakky54/Hakky54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- start statics fun section -->
+<details>
+<summary><b> Some Statistics Fun </b></summary>
+<div align="center">
+<img src='https://github-readme-stats.vercel.app/api?username=hakky54&show_icons=true&theme=tokyonight&line_height=20'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hakky54&show_icons=true&theme=tokyonight&hide=html,javascript,css&langs_count=8&layout=compact' />
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hakky54&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hakky54&theme=dark)
 
-**Languages and Tools:**
+<img src="https://activity-graph.herokuapp.com/graph?username=Hakky54&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+
+</div>
+</details>
+<!-- end statics fun section -->
+
+
+<!-- start languages section -->
+<details>
+<summary><b> Used languages and tools </b></summary>
+<div align="center">
 
 <p>
   <!-- Your languages and tools. Be careful with the alignment.
@@ -40,6 +58,11 @@ Here are some ideas to get you started:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code>
   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <br />
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
@@ -56,3 +79,7 @@ Here are some ideas to get you started:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitpodio/gitpodio-ar21.svg"></code>
 </p>
+  
+</div>
+</details>
+<!-- end languages section -->
