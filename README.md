@@ -12,11 +12,12 @@
 - 🌐 Visit my [LinkedIn](https://keshavsingh4522.github.io/) for complete background and contact.
 - :boom: awesome octoprofile : [Hakan Altındağ](https://octoprofile.vercel.app/user?id=hakky54)
 
-**Get in touch:**
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/)](https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/) [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Hakky54/)](https://www.github.com/Hakky54/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Hakky54) 
-
 <br />
+
+**Get in touch:** 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/)](https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329/) [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Hakky54/)](https://www.github.com/Hakky54/) [![Gitter](https://badges.gitter.im/hakky54/community.svg)](https://gitter.im/hakky54/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Hakky54)
+
 <br />
 
 <!-- start statics fun section -->
