@@ -1,6 +1,6 @@
 <img src='https://user-images.githubusercontent.com/16032204/122688449-822f7e80-d21c-11eb-971a-8c0a257c34f6.gif' align='left'>
 
-### Hello there 👋, I'm Hakan!
+### Hello there 👋
 
 - 👨‍💻 I'm Hakan Altındağ and working as a freelance software engineer
 - 🔭 I’m currently working on  **Backend Development**
