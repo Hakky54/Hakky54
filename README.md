@@ -39,6 +39,25 @@
 <!-- end statics fun section -->
 
 
+<!-- start written articles section -->
+<details>
+<summary><b> Written articles </b></summary>
+<div align="left">
+<ul>
+  <li><a href="https://dzone.com/articles/hakky54mutual-tls-1" target="_blank">How to Easily Set Up Mutual TLS</a></li>
+  <li><a href="https://dzone.com/articles/secure-your-grpc-services-with-ssltls" target="_blank">Secure Your gRPC Services With SSL/TLS</a></li>
+  <li><a href="https://dzone.com/articles/unit-testing-log-messages-made-easy" target="_blank">Unit Testing Log Messages Made Easy</a></li>
+  <li><a href="https://dzone.com/articles/configuring-ssl-tls-connection-made-easy" target="_blank">Configuring SSL/TLS Connection Made Easy</a></li>
+  <li><a href="https://dzone.com/articles/unit-testing-static-methods-with-mockito" target="_blank">Unit Testing Static Methods With Mockito</a></li>
+  <li><a href="https://dzone.com/articles/how-to-configure-tlsssl-with-pem-files" target="_blank">How to Configure TLS/SSL With PEM Files</a></li>
+  <li><a href="https://dzone.com/articles/compress-your-data-within-elasticsearch" target="_blank">Compress Your Data Within Elasticsearch</a></li>
+</ul>
+
+</div>
+</details>
+<!-- end written articles section -->
+
+
 <!-- start languages section -->
 <details>
 <summary><b> Used languages and tools </b></summary>
