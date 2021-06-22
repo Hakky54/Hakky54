@@ -26,7 +26,6 @@
 <summary><b> Some Statistics Fun </b></summary>
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=hakky54&show_icons=true&theme=tokyonight&line_height=20'  align="left" />
-  
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hakky54&show_icons=true&theme=tokyonight&hide=html,javascript,css&langs_count=8&layout=compact' />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hakky54&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
