@@ -55,6 +55,8 @@
 <br/>
 <a href="https://dzone.com/articles/how-to-configure-tlsssl-with-pem-files" target="_blank">How to Configure TLS/SSL With PEM Files</a>
 <br/>
+<a href="https://dzone.com/articles/How-To-Change-Certificate-Without-Downtime" target="_blank">How to Change Certificate Without Downtime</a>
+<br/>
 <a href="https://dzone.com/articles/compress-your-data-within-elasticsearch" target="_blank">Compress Your Data Within Elasticsearch</a>
 <br/>
 
