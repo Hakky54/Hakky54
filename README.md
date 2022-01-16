@@ -9,7 +9,7 @@
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - :bulb: Occasionaly I do participate in **Hackathons**
 - 👨 Know more about me at [Dzone](https://dzone.com/users/3485132/hakky54.html) 
-- 🌐 Visit my [LinkedIn](https://keshavsingh4522.github.io/) for complete background and contact.
+- 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/hakan-alt%C4%B1nda%C4%9F-3703b329) for complete background and contact.
 - :boom: awesome octoprofile : [Hakan Altındağ](https://octoprofile.vercel.app/user?id=hakky54)
 
 <br />
